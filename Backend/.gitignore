@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+key.json
+media/audio/*.mp3
