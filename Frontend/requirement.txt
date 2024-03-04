@@ -1,0 +1,3 @@
+jwt-decode
+swr
+axios
